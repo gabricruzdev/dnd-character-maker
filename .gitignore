@@ -1,0 +1,16 @@
+user_config.json
+history.json
+fichas/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.pdf
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
+.cursor/
+.commitmsg.tmp
